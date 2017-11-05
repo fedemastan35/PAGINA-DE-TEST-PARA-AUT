@@ -13,10 +13,14 @@ html, body, h1, h2, h3, h4, ul, ol, li, p, a {
   padding: 15px;
   margin-bottom: 10px;
 }
-.tabs ul {
-  display: inline;
+.tabs h2 {
   text-align: center;
+  padding-bottom: 5px;
+  border-bottom: 5px;
   font-style: italic;
+}
+.tabs li {
+  display: inline;
 }
 body {
   background: #888888;

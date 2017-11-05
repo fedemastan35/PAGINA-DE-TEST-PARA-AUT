@@ -1,0 +1,9 @@
+h1, h2, h3, ul, li, p, a {
+  text-align:center;
+}
+.header img {
+  float: left;
+  background-color: #555555;
+  width: 200px;
+  height: 200px;
+}
