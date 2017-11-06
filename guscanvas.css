@@ -1,0 +1,14 @@
+html {
+	text-align:center;
+}
+
+.header
+{
+	color:red;
+	background-color:black;
+}
+.otherHeader
+{
+	color:white;
+	background-color:black;
+}
